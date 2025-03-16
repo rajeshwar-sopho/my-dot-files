@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Arhiiv"
+   },
+   "2159130950882492111": {
+      "message": "Loobu"
+   },
+   "2323249770683736002": {
+      "message": "Loo uus silt"
+   },
+   "2983318659047499045": {
+      "message": "Meeldetuletused"
+   },
+   "3418677553313974490": {
+      "message": "Prügikast"
+   },
+   "3623199266894863617": {
+      "message": "Loo märge"
+   },
+   "4930506384627295710": {
+      "message": "Seaded"
+   },
+   "4974261966265341751": {
+      "message": "Keela tume teema"
+   },
+   "5207635742003539443": {
+      "message": "Logi sisse"
+   },
+   "546766753072101168": {
+      "message": "Sildid"
+   },
+   "5570885401952336951": {
+      "message": "Kliendi logi"
+   },
+   "5775346636203685655": {
+      "message": "Võta tagasi"
+   },
+   "6857703948759289202": {
+      "message": "Link eemaldati."
+   },
+   "7005745151564974365": {
+      "message": "Klaviatuuri otseteed"
+   },
+   "7102649289752747375": {
+      "message": "Saada tagasisidet"
+   },
+   "733701029503338559": {
+      "message": "Google Keepi Chrome’i laienduse kasutamiseks peate sisse logima"
+   },
+   "7384785369409503695": {
+      "message": "Luba tume teema"
+   },
+   "7420364754178516134": {
+      "message": "Silumistööriistad"
+   },
+   "7528441140724145783": {
+      "message": "Siltide muutmine"
+   },
+   "7585826646011739428": {
+      "message": "Muuda"
+   },
+   "7819314041543176992": {
+      "message": "Sule"
+   },
+   "7911416166208830577": {
+      "message": "Abi"
+   },
+   "8104421162933956065": {
+      "message": "Märkused"
+   },
+   "8161188819557037260": {
+      "message": "Google Keepi Chrome’i laiendus"
+   },
+   "8193677552005249631": {
+      "message": "Rakenduste allalaadimine"
+   },
+   "9146862513672039744": {
+      "message": "Tühjenda konto"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Google Keepi salvestamine ühe klikiga!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keepi Chrome’i laiendus"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Keepi salvestamine"
+   }
+}

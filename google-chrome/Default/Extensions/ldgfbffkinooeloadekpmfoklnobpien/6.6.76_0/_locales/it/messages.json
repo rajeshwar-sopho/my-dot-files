@@ -1,0 +1,54 @@
+{
+   "appDesc": {
+      "description": "",
+      "message": "Gestore segnalibri tutto-in-uno"
+   },
+   "in": {
+      "description": "",
+      "message": "in"
+   },
+   "openApp": {
+      "description": "",
+      "message": "Apri applicazione"
+   },
+   "openRaindrop": {
+      "description": "",
+      "message": "Apri Raindrop.io web-sito"
+   },
+   "openSidePanel": {
+      "description": "",
+      "message": "Apri barra laterale"
+   },
+   "saveHighlight": {
+      "description": "",
+      "message": "Salva evidenziamenti"
+   },
+   "saveImage": {
+      "description": "",
+      "message": "Salva immagine"
+   },
+   "saveLink": {
+      "description": "",
+      "message": "Salva link"
+   },
+   "savePage": {
+      "description": "",
+      "message": "Creare nuovo segnalibro"
+   },
+   "savePageOrHighlight": {
+      "description": "",
+      "message": "Segnalibro / Salva evidenziamenti"
+   },
+   "saveTabs": {
+      "description": "",
+      "message": "Salva schede"
+   },
+   "saveVideo": {
+      "description": "",
+      "message": "Salva video"
+   },
+   "settings": {
+      "description": "",
+      "message": "Impostazioni"
+   }
+}

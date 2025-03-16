@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Arşiv"
+   },
+   "2159130950882492111": {
+      "message": "İptal"
+   },
+   "2323249770683736002": {
+      "message": "Yeni etiket oluştur"
+   },
+   "2983318659047499045": {
+      "message": "Hatırlatıcılar"
+   },
+   "3418677553313974490": {
+      "message": "Çöp Kutusu"
+   },
+   "3623199266894863617": {
+      "message": "Not Oluştur"
+   },
+   "4930506384627295710": {
+      "message": "Ayarlar"
+   },
+   "4974261966265341751": {
+      "message": "Koyu temayı devre dışı bırak"
+   },
+   "5207635742003539443": {
+      "message": "Oturum aç"
+   },
+   "546766753072101168": {
+      "message": "Etiketler"
+   },
+   "5570885401952336951": {
+      "message": "İstemci günlüğü"
+   },
+   "5775346636203685655": {
+      "message": "Geri al"
+   },
+   "6857703948759289202": {
+      "message": "Bağlantı kaldırıldı."
+   },
+   "7005745151564974365": {
+      "message": "Klavye kısayolları"
+   },
+   "7102649289752747375": {
+      "message": "Geri bildirim gönder"
+   },
+   "733701029503338559": {
+      "message": "Google Keep Chrome Uzantısı'nı kullanmak için oturum açmalısınız"
+   },
+   "7384785369409503695": {
+      "message": "Koyu temayı etkinleştir"
+   },
+   "7420364754178516134": {
+      "message": "Hata ayıklama araçları"
+   },
+   "7528441140724145783": {
+      "message": "Etiketleri düzenleyin"
+   },
+   "7585826646011739428": {
+      "message": "Düzenle"
+   },
+   "7819314041543176992": {
+      "message": "Kapat"
+   },
+   "7911416166208830577": {
+      "message": "Yardım"
+   },
+   "8104421162933956065": {
+      "message": "Notlar"
+   },
+   "8161188819557037260": {
+      "message": "Google Keep Chrome Uzantısı"
+   },
+   "8193677552005249631": {
+      "message": "Uygulama indirme işlemleri"
+   },
+   "9146862513672039744": {
+      "message": "Hesabı temizle"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Tek bir tıklamayla Google Keep'e kaydedin!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keep Chrome Uzantısı"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Keep'e Kayıt"
+   }
+}

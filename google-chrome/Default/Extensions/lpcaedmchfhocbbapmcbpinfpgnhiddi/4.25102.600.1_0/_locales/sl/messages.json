@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Arhiviraj"
+   },
+   "2159130950882492111": {
+      "message": "Prekliči"
+   },
+   "2323249770683736002": {
+      "message": "Ustvari novo oznako"
+   },
+   "2983318659047499045": {
+      "message": "Opomniki"
+   },
+   "3418677553313974490": {
+      "message": "Koš"
+   },
+   "3623199266894863617": {
+      "message": "Ustvari zapisek"
+   },
+   "4930506384627295710": {
+      "message": "Nastavitve"
+   },
+   "4974261966265341751": {
+      "message": "Onemogoči temno temo"
+   },
+   "5207635742003539443": {
+      "message": "Prijava"
+   },
+   "546766753072101168": {
+      "message": "Oznake"
+   },
+   "5570885401952336951": {
+      "message": "Dnevnik odjemalca"
+   },
+   "5775346636203685655": {
+      "message": "Razveljavitev"
+   },
+   "6857703948759289202": {
+      "message": "Povezava je odstranjena."
+   },
+   "7005745151564974365": {
+      "message": "Bližnjične tipke"
+   },
+   "7102649289752747375": {
+      "message": "Pošlji povratne informacije"
+   },
+   "733701029503338559": {
+      "message": "Če želite uporabljati razširitev Google Keep za Chrome, se morate prijaviti"
+   },
+   "7384785369409503695": {
+      "message": "Omogoči temno temo"
+   },
+   "7420364754178516134": {
+      "message": "Orodja za odpravljanje napak"
+   },
+   "7528441140724145783": {
+      "message": "Urejanje oznak"
+   },
+   "7585826646011739428": {
+      "message": "Uredi"
+   },
+   "7819314041543176992": {
+      "message": "Zapri"
+   },
+   "7911416166208830577": {
+      "message": "Pomoč"
+   },
+   "8104421162933956065": {
+      "message": "Opombe"
+   },
+   "8161188819557037260": {
+      "message": "Razširitev Google Keep za Chrome"
+   },
+   "8193677552005249631": {
+      "message": "Prenos aplikacij"
+   },
+   "9146862513672039744": {
+      "message": "Počisti račun"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Shranjujte v Google Keep z enim samim klikom!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Razširitev Google Keep za Chrome"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Shranjevanje v Keep"
+   }
+}

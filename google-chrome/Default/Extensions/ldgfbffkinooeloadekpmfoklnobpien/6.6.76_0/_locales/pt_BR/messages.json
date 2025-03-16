@@ -1,0 +1,54 @@
+{
+   "appDesc": {
+      "description": "",
+      "message": "Gerencie todos seus favoritos em apenas um lugar"
+   },
+   "in": {
+      "description": "",
+      "message": "em"
+   },
+   "openApp": {
+      "description": "",
+      "message": "Abrir aplicativo"
+   },
+   "openRaindrop": {
+      "description": "",
+      "message": "Abrir Raindrop.io web-site"
+   },
+   "openSidePanel": {
+      "description": "",
+      "message": "Abrir barra lateral"
+   },
+   "saveHighlight": {
+      "description": "",
+      "message": "Salvar destaques"
+   },
+   "saveImage": {
+      "description": "",
+      "message": "Salvar foto"
+   },
+   "saveLink": {
+      "description": "",
+      "message": "Salvar link"
+   },
+   "savePage": {
+      "description": "",
+      "message": "Criar novo favorito"
+   },
+   "savePageOrHighlight": {
+      "description": "",
+      "message": "Favorito / Salvar destaques"
+   },
+   "saveTabs": {
+      "description": "",
+      "message": "Salvar janelas"
+   },
+   "saveVideo": {
+      "description": "",
+      "message": "Salvar vídeo"
+   },
+   "settings": {
+      "description": "",
+      "message": "Configurações"
+   }
+}

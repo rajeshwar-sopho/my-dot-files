@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Arkiv"
+   },
+   "2159130950882492111": {
+      "message": "Avbryt"
+   },
+   "2323249770683736002": {
+      "message": "Skapa ny etikett"
+   },
+   "2983318659047499045": {
+      "message": "Påminnelser"
+   },
+   "3418677553313974490": {
+      "message": "Papperskorgen"
+   },
+   "3623199266894863617": {
+      "message": "Skapa anteckning"
+   },
+   "4930506384627295710": {
+      "message": "Inställningar"
+   },
+   "4974261966265341751": {
+      "message": "Inaktivera mörkt tema"
+   },
+   "5207635742003539443": {
+      "message": "Logga in"
+   },
+   "546766753072101168": {
+      "message": "Etiketter"
+   },
+   "5570885401952336951": {
+      "message": "Klientlogg"
+   },
+   "5775346636203685655": {
+      "message": "Ångra"
+   },
+   "6857703948759289202": {
+      "message": "Länk borttagen."
+   },
+   "7005745151564974365": {
+      "message": "Kortkommandon"
+   },
+   "7102649289752747375": {
+      "message": "Skicka feedback"
+   },
+   "733701029503338559": {
+      "message": "Du måste logga in om du ska kunna använda Chrome-tillägget Google Keep"
+   },
+   "7384785369409503695": {
+      "message": "Aktivera mörkt tema"
+   },
+   "7420364754178516134": {
+      "message": "Felsökningsverktyg"
+   },
+   "7528441140724145783": {
+      "message": "Redigera etiketter"
+   },
+   "7585826646011739428": {
+      "message": "Redigera"
+   },
+   "7819314041543176992": {
+      "message": "Stäng"
+   },
+   "7911416166208830577": {
+      "message": "Hjälp"
+   },
+   "8104421162933956065": {
+      "message": "Anteckningar"
+   },
+   "8161188819557037260": {
+      "message": "Chrome-tillägget Google Keep"
+   },
+   "8193677552005249631": {
+      "message": "Appnedladdningar"
+   },
+   "9146862513672039744": {
+      "message": "Rensa konto"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Spara i Google Keep med ett enda klick!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Chrome-tillägg för Google Keep"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Spara i Keep"
+   }
+}

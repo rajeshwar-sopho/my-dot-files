@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Archív"
+   },
+   "2159130950882492111": {
+      "message": "Zrušiť"
+   },
+   "2323249770683736002": {
+      "message": "Vytvoriť nový štítok"
+   },
+   "2983318659047499045": {
+      "message": "Pripomenutia"
+   },
+   "3418677553313974490": {
+      "message": "Kôš"
+   },
+   "3623199266894863617": {
+      "message": "Vytvoriť poznámku"
+   },
+   "4930506384627295710": {
+      "message": "Nastavenia"
+   },
+   "4974261966265341751": {
+      "message": "Vypnúť tmavý motív"
+   },
+   "5207635742003539443": {
+      "message": "Prihlásiť sa"
+   },
+   "546766753072101168": {
+      "message": "Štítky"
+   },
+   "5570885401952336951": {
+      "message": "Denník klienta"
+   },
+   "5775346636203685655": {
+      "message": "Späť"
+   },
+   "6857703948759289202": {
+      "message": "Odkaz bol odstránený."
+   },
+   "7005745151564974365": {
+      "message": "Klávesové skratky"
+   },
+   "7102649289752747375": {
+      "message": "Spätná väzba"
+   },
+   "733701029503338559": {
+      "message": "Ak chcete použiť rozšírenie pre Chrome na ukladanie v aplikácii Google Keep, musíte sa prihlásiť"
+   },
+   "7384785369409503695": {
+      "message": "Zapnúť tmavý motív"
+   },
+   "7420364754178516134": {
+      "message": "Nástroje na ladenie"
+   },
+   "7528441140724145783": {
+      "message": "Upraviť štítky"
+   },
+   "7585826646011739428": {
+      "message": "Upraviť"
+   },
+   "7819314041543176992": {
+      "message": "Zavrieť"
+   },
+   "7911416166208830577": {
+      "message": "Pomocník"
+   },
+   "8104421162933956065": {
+      "message": "Poznámky"
+   },
+   "8161188819557037260": {
+      "message": "Rozšírenie pre Chrome na ukladanie v aplikácii Google Keep"
+   },
+   "8193677552005249631": {
+      "message": "Stiahnutie aplikácií"
+   },
+   "9146862513672039744": {
+      "message": "Vymazať účet"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Ukladajte do služby Keep jedným kliknutím!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Rozšírenie Google Keep pre Chrome"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Ukladanie do služby Keep"
+   }
+}

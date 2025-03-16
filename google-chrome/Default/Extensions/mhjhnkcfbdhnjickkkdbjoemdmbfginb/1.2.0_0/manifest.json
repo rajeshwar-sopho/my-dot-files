@@ -1,0 +1,27 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "icons/action19x19.png",
+         "38": "icons/action38x38.png"
+      },
+      "default_title": "SelectorGadget"
+   },
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "description": "Easy, powerful CSS Selector generation.",
+   "homepage_url": "http://selectorgadget.com",
+   "host_permissions": [ "http://*/*", "https://*/*" ],
+   "icons": {
+      "128": "icons/128x128.png",
+      "16": "icons/16x16.png",
+      "48": "icons/48x48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDaZC7CHedWVtMcN+Kcm/gAoy4U61s4sYKh0xSZaoTJ82JFUy072AlZJ7qPy0H1nPBRRgnoJTSGYjAH2LbV67XHpbfI4F5HIH1SjyNZt0gjlrTS4ywZjmusjXmCadmQuEuG4iYqxHyxC/sL+vHAUlbvtmOor52Mxa+2c+VYybY0uQIDAQAB",
+   "manifest_version": 3,
+   "name": "SelectorGadget",
+   "permissions": [ "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.0"
+}

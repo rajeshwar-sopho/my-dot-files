@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Lưu trữ"
+   },
+   "2159130950882492111": {
+      "message": "Hủy"
+   },
+   "2323249770683736002": {
+      "message": "Tạo nhãn mới"
+   },
+   "2983318659047499045": {
+      "message": "Lời nhắc"
+   },
+   "3418677553313974490": {
+      "message": "Thùng rác"
+   },
+   "3623199266894863617": {
+      "message": "Tạo ghi chú"
+   },
+   "4930506384627295710": {
+      "message": "Cài đặt"
+   },
+   "4974261966265341751": {
+      "message": "Tắt chế độ tối"
+   },
+   "5207635742003539443": {
+      "message": "Đăng nhập"
+   },
+   "546766753072101168": {
+      "message": "Nhãn"
+   },
+   "5570885401952336951": {
+      "message": "Nhật ký ứng dụng"
+   },
+   "5775346636203685655": {
+      "message": "Hủy"
+   },
+   "6857703948759289202": {
+      "message": "Đã xóa đường liên kết."
+   },
+   "7005745151564974365": {
+      "message": "Phím tắt"
+   },
+   "7102649289752747375": {
+      "message": "Gửi ý kiến phản hồi"
+   },
+   "733701029503338559": {
+      "message": "Bạn phải đăng nhập để sử dụng tiện ích Google Keep của Chrome"
+   },
+   "7384785369409503695": {
+      "message": "Bật giao diện tối"
+   },
+   "7420364754178516134": {
+      "message": "Công cụ gỡ lỗi"
+   },
+   "7528441140724145783": {
+      "message": "Chỉnh sửa nhãn"
+   },
+   "7585826646011739428": {
+      "message": "Chỉnh sửa"
+   },
+   "7819314041543176992": {
+      "message": "Đóng"
+   },
+   "7911416166208830577": {
+      "message": "Trợ giúp"
+   },
+   "8104421162933956065": {
+      "message": "Ghi chú"
+   },
+   "8161188819557037260": {
+      "message": "Tiện ích Google Keep của Chrome"
+   },
+   "8193677552005249631": {
+      "message": "Ứng dụng đã tải xuống"
+   },
+   "9146862513672039744": {
+      "message": "Xóa sạch tài khoản"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Lưu vào Google Keep bằng một cú nhấp chuột!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Tiện ích Google Keep dành cho Chrome"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Lưu vào Keep"
+   }
+}

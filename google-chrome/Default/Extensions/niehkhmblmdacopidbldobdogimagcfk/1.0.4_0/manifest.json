@@ -1,0 +1,29 @@
+{
+   "action": {
+      "default_icon": "css/icons/96x96.png",
+      "default_popup": "index.html",
+      "default_title": "Pretty HTML | CSS | XML"
+   },
+   "description": "A simple way to format your  HTML, CSS, or XML code for easier reading!",
+   "icons": {
+      "128": "css/icons/128x128.png",
+      "144": "css/icons/144x144.png",
+      "16": "css/icons/16x16.png",
+      "192": "css/icons/192x192.png",
+      "32": "css/icons/32x32.png",
+      "36": "css/icons/36x36.png",
+      "48": "css/icons/48x48.png",
+      "512": "css/icons/512x512.png",
+      "64": "css/icons/64x64.png",
+      "72": "css/icons/72x72.png",
+      "96": "css/icons/96x96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArHSbsC6LMwsRXVFkoN8maXS/3K4rObMRBEpvBQdj+v9NuTVB3OlcWLRJw7Ar8dvGrUwb5Wzmnsw+WX+zye2Gz3fzTfB9H/GwWIcK3U9+fF7m0NBDEjIFOUC6VZaR0hBvsRDUbpkg7/Y2wAYED9+W3AErHvlBE8GyPycJP2W6WIIVJ8B3kp5odguSSlU4Vm9vTU4BzbWyoiEHScR3cm6PbYjiHO9xuIN1WQZmnCF8Xqbznxr4f4Uied2h0KEd1U31qdsXiCUpj4OWr87FXCzFd5wlNtF0sdOZ57kJb2bpRDqqVfwEAsdft0Oeh/2ihTwtihGo2/KasOLGKKNy5aqUeQIDAQAB",
+   "manifest_version": 3,
+   "name": "Pretty HTML | CSS | XML",
+   "offline_enabled": false,
+   "permissions": [ "clipboardRead", "clipboardWrite" ],
+   "short_name": "Pretty HTML",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.4"
+}

@@ -1,0 +1,54 @@
+{
+   "appDesc": {
+      "description": "",
+      "message": "All-in-one bookmark manager"
+   },
+   "in": {
+      "description": "",
+      "message": "in"
+   },
+   "openApp": {
+      "description": "",
+      "message": "Open app"
+   },
+   "openRaindrop": {
+      "description": "",
+      "message": "Open Raindrop.io web-site"
+   },
+   "openSidePanel": {
+      "description": "",
+      "message": "Open sidebar"
+   },
+   "saveHighlight": {
+      "description": "",
+      "message": "Save highlights"
+   },
+   "saveImage": {
+      "description": "",
+      "message": "Save image"
+   },
+   "saveLink": {
+      "description": "",
+      "message": "Save link"
+   },
+   "savePage": {
+      "description": "",
+      "message": "Create new bookmark"
+   },
+   "savePageOrHighlight": {
+      "description": "",
+      "message": "Bookmark / Save highlights"
+   },
+   "saveTabs": {
+      "description": "",
+      "message": "Save tabs"
+   },
+   "saveVideo": {
+      "description": "",
+      "message": "Save video"
+   },
+   "settings": {
+      "description": "",
+      "message": "Settings"
+   }
+}

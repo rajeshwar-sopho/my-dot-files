@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Archivio"
+   },
+   "2159130950882492111": {
+      "message": "Annulla"
+   },
+   "2323249770683736002": {
+      "message": "Crea nuova etichetta"
+   },
+   "2983318659047499045": {
+      "message": "Promemoria"
+   },
+   "3418677553313974490": {
+      "message": "Cestino"
+   },
+   "3623199266894863617": {
+      "message": "Crea nota"
+   },
+   "4930506384627295710": {
+      "message": "Impostazioni"
+   },
+   "4974261966265341751": {
+      "message": "Disattiva Tema scuro"
+   },
+   "5207635742003539443": {
+      "message": "Accedi"
+   },
+   "546766753072101168": {
+      "message": "Etichette"
+   },
+   "5570885401952336951": {
+      "message": "Log del client"
+   },
+   "5775346636203685655": {
+      "message": "Annulla"
+   },
+   "6857703948759289202": {
+      "message": "Link rimosso."
+   },
+   "7005745151564974365": {
+      "message": "Scorciatoie da tastiera"
+   },
+   "7102649289752747375": {
+      "message": "Invia feedback"
+   },
+   "733701029503338559": {
+      "message": "Per utilizzare l'estensione Google Keep per Chrome devi effettuare l'accesso"
+   },
+   "7384785369409503695": {
+      "message": "Attiva tema scuro"
+   },
+   "7420364754178516134": {
+      "message": "Strumenti di debug"
+   },
+   "7528441140724145783": {
+      "message": "Modifica etichette"
+   },
+   "7585826646011739428": {
+      "message": "Modifica"
+   },
+   "7819314041543176992": {
+      "message": "Chiudi"
+   },
+   "7911416166208830577": {
+      "message": "Guida"
+   },
+   "8104421162933956065": {
+      "message": "Note"
+   },
+   "8161188819557037260": {
+      "message": "Estensione Google Keep per Chrome"
+   },
+   "8193677552005249631": {
+      "message": "Download app"
+   },
+   "9146862513672039744": {
+      "message": "Cancella dati account"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Salva in Google Keep con un solo clic."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Estensione Google Keep per Chrome"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Salva in Keep"
+   }
+}

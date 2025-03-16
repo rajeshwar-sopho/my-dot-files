@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Arquivo"
+   },
+   "2159130950882492111": {
+      "message": "Cancelar"
+   },
+   "2323249770683736002": {
+      "message": "Criar novo marcador"
+   },
+   "2983318659047499045": {
+      "message": "Lembretes"
+   },
+   "3418677553313974490": {
+      "message": "Lixeira"
+   },
+   "3623199266894863617": {
+      "message": "Criar nota"
+   },
+   "4930506384627295710": {
+      "message": "Configurações"
+   },
+   "4974261966265341751": {
+      "message": "Desativar tema escuro"
+   },
+   "5207635742003539443": {
+      "message": "Fazer login"
+   },
+   "546766753072101168": {
+      "message": "Marcadores"
+   },
+   "5570885401952336951": {
+      "message": "Registro do cliente"
+   },
+   "5775346636203685655": {
+      "message": "Desfazer"
+   },
+   "6857703948759289202": {
+      "message": "Link removido."
+   },
+   "7005745151564974365": {
+      "message": "Atalhos do teclado"
+   },
+   "7102649289752747375": {
+      "message": "Enviar feedback"
+   },
+   "733701029503338559": {
+      "message": "Você precisa fazer login para usar a extensão do Chrome para o Google Keep."
+   },
+   "7384785369409503695": {
+      "message": "Ativar tema escuro"
+   },
+   "7420364754178516134": {
+      "message": "Ferramentas de depuração"
+   },
+   "7528441140724145783": {
+      "message": "Editar marcadores"
+   },
+   "7585826646011739428": {
+      "message": "Editar"
+   },
+   "7819314041543176992": {
+      "message": "Fechar"
+   },
+   "7911416166208830577": {
+      "message": "Ajuda"
+   },
+   "8104421162933956065": {
+      "message": "Notas"
+   },
+   "8161188819557037260": {
+      "message": "Extensão do Google Keep para o Chrome"
+   },
+   "8193677552005249631": {
+      "message": "Downloads do app"
+   },
+   "9146862513672039744": {
+      "message": "Excluir a conta permanentemente"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Salve no Google Keep com um clique!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Extensão do Google Keep para o Chrome"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Salvar no Keep"
+   }
+}

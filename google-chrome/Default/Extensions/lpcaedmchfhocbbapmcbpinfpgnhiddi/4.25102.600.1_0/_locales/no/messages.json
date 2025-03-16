@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Arkivér"
+   },
+   "2159130950882492111": {
+      "message": "Avbryt"
+   },
+   "2323249770683736002": {
+      "message": "Opprett ny etikett"
+   },
+   "2983318659047499045": {
+      "message": "Påminnelser"
+   },
+   "3418677553313974490": {
+      "message": "Papirkurv"
+   },
+   "3623199266894863617": {
+      "message": "Opprett et notat"
+   },
+   "4930506384627295710": {
+      "message": "Innstillinger"
+   },
+   "4974261966265341751": {
+      "message": "Slå av mørkt tema"
+   },
+   "5207635742003539443": {
+      "message": "Logg på"
+   },
+   "546766753072101168": {
+      "message": "Etiketter"
+   },
+   "5570885401952336951": {
+      "message": "Klientlogg"
+   },
+   "5775346636203685655": {
+      "message": "Angre"
+   },
+   "6857703948759289202": {
+      "message": "Linken er fjernet."
+   },
+   "7005745151564974365": {
+      "message": "Hurtigtaster"
+   },
+   "7102649289752747375": {
+      "message": "Send tilbakemelding"
+   },
+   "733701029503338559": {
+      "message": "Du må logge på for å kunne bruke Google Keep-utvidelsen for Chrome"
+   },
+   "7384785369409503695": {
+      "message": "Slå på mørkt tema"
+   },
+   "7420364754178516134": {
+      "message": "Feilsøkingsverktøy"
+   },
+   "7528441140724145783": {
+      "message": "Endre etiketter"
+   },
+   "7585826646011739428": {
+      "message": "Endre"
+   },
+   "7819314041543176992": {
+      "message": "Lukk"
+   },
+   "7911416166208830577": {
+      "message": "Hjelp"
+   },
+   "8104421162933956065": {
+      "message": "Notater"
+   },
+   "8161188819557037260": {
+      "message": "Google Keep-utvidelsen for Chrome"
+   },
+   "8193677552005249631": {
+      "message": "Appnedlastinger"
+   },
+   "9146862513672039744": {
+      "message": "Visk ut kontoen"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Lagre i Google Keep med bare et klikk!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Chrome-utvidelsen Google Keep"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Lagre i Keep"
+   }
+}

@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Archiv"
+   },
+   "2159130950882492111": {
+      "message": "Abbrechen"
+   },
+   "2323249770683736002": {
+      "message": "Neues Label erstellen"
+   },
+   "2983318659047499045": {
+      "message": "Erinnerungen"
+   },
+   "3418677553313974490": {
+      "message": "Papierkorb"
+   },
+   "3623199266894863617": {
+      "message": "Notiz erstellen"
+   },
+   "4930506384627295710": {
+      "message": "Einstellungen"
+   },
+   "4974261966265341751": {
+      "message": "Dunkles Design deaktivieren"
+   },
+   "5207635742003539443": {
+      "message": "Anmelden"
+   },
+   "546766753072101168": {
+      "message": "Labels"
+   },
+   "5570885401952336951": {
+      "message": "Clientprotokoll"
+   },
+   "5775346636203685655": {
+      "message": "Rückgängig machen"
+   },
+   "6857703948759289202": {
+      "message": "Link entfernt."
+   },
+   "7005745151564974365": {
+      "message": "Tastenkombinationen"
+   },
+   "7102649289752747375": {
+      "message": "Feedback geben"
+   },
+   "733701029503338559": {
+      "message": "Sie müssen sich anmelden, um die Chrome-Erweiterung für Google Notizen zu verwenden"
+   },
+   "7384785369409503695": {
+      "message": "Dunkles Design aktivieren"
+   },
+   "7420364754178516134": {
+      "message": "Tools zur Fehlerbehebung"
+   },
+   "7528441140724145783": {
+      "message": "Labels bearbeiten"
+   },
+   "7585826646011739428": {
+      "message": "Bearbeiten"
+   },
+   "7819314041543176992": {
+      "message": "Schließen"
+   },
+   "7911416166208830577": {
+      "message": "Hilfe"
+   },
+   "8104421162933956065": {
+      "message": "Notizen"
+   },
+   "8161188819557037260": {
+      "message": "Chrome-Erweiterung für Google Notizen"
+   },
+   "8193677552005249631": {
+      "message": "App-Downloads"
+   },
+   "9146862513672039744": {
+      "message": "Konto löschen"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Mit nur einem Klick in Google Notizen speichern!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Chrome-Erweiterung für Google Notizen"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "In Google Notizen speichern"
+   }
+}

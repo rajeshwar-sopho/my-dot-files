@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Arhīvi"
+   },
+   "2159130950882492111": {
+      "message": "Atcelt"
+   },
+   "2323249770683736002": {
+      "message": "Izveidot jaunu iezīmi"
+   },
+   "2983318659047499045": {
+      "message": "Atgādinājumi"
+   },
+   "3418677553313974490": {
+      "message": "Atkritne"
+   },
+   "3623199266894863617": {
+      "message": "Izveidot piezīmi"
+   },
+   "4930506384627295710": {
+      "message": "Iestatījumi"
+   },
+   "4974261966265341751": {
+      "message": "Atspējot tumšo motīvu"
+   },
+   "5207635742003539443": {
+      "message": "Pierakstīties"
+   },
+   "546766753072101168": {
+      "message": "Iezīmes"
+   },
+   "5570885401952336951": {
+      "message": "Klienta žurnāls"
+   },
+   "5775346636203685655": {
+      "message": "Atsaukt"
+   },
+   "6857703948759289202": {
+      "message": "Saite ir noņemta."
+   },
+   "7005745151564974365": {
+      "message": "Īsinājumtaustiņi"
+   },
+   "7102649289752747375": {
+      "message": "Sūtīt atsauksmes"
+   },
+   "733701029503338559": {
+      "message": "Lai izmantotu Google Keep Chrome paplašinājumu, jums ir jāpierakstās"
+   },
+   "7384785369409503695": {
+      "message": "Iespējot tumšo motīvu"
+   },
+   "7420364754178516134": {
+      "message": "Atkļūdošanas rīki"
+   },
+   "7528441140724145783": {
+      "message": "Iezīmju rediģēšana"
+   },
+   "7585826646011739428": {
+      "message": "Rediģēt"
+   },
+   "7819314041543176992": {
+      "message": "Aizvērt"
+   },
+   "7911416166208830577": {
+      "message": "Palīdzība"
+   },
+   "8104421162933956065": {
+      "message": "Piezīmes"
+   },
+   "8161188819557037260": {
+      "message": "Google Keep Chrome paplašinājums"
+   },
+   "8193677552005249631": {
+      "message": "Lietotņu lejupielādes"
+   },
+   "9146862513672039744": {
+      "message": "Notīrīt kontu"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Saglabājiet saturu lietotnē Google Keep ar vienu klikšķi!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keep Chrome paplašinājums"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Satura saglabāšana lietotnē Keep"
+   }
+}

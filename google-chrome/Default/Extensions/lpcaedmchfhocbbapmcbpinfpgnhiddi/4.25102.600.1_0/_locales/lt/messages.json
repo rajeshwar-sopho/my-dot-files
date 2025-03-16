@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Archyvuoti"
+   },
+   "2159130950882492111": {
+      "message": "Atšaukti"
+   },
+   "2323249770683736002": {
+      "message": "Sukurti naują etiketę"
+   },
+   "2983318659047499045": {
+      "message": "Priminimai"
+   },
+   "3418677553313974490": {
+      "message": "Šiukšliadėžė"
+   },
+   "3623199266894863617": {
+      "message": "Sukurti užrašą"
+   },
+   "4930506384627295710": {
+      "message": "Nustatymai"
+   },
+   "4974261966265341751": {
+      "message": "Išjungti tamsiąją temą"
+   },
+   "5207635742003539443": {
+      "message": "Prisijungti"
+   },
+   "546766753072101168": {
+      "message": "Etiketės"
+   },
+   "5570885401952336951": {
+      "message": "Kliento žurnalas"
+   },
+   "5775346636203685655": {
+      "message": "Anuliuoti"
+   },
+   "6857703948759289202": {
+      "message": "Nuoroda pašalinta."
+   },
+   "7005745151564974365": {
+      "message": "Spartieji klavišai"
+   },
+   "7102649289752747375": {
+      "message": "Siųsti atsiliepimą"
+   },
+   "733701029503338559": {
+      "message": "Kad galėtumėte naudoti „Chrome“ skirtą „Google Keep“ plėtinį, turite prisijungti"
+   },
+   "7384785369409503695": {
+      "message": "Įgalinti tamsiąją temą"
+   },
+   "7420364754178516134": {
+      "message": "Derinimo įrankiai"
+   },
+   "7528441140724145783": {
+      "message": "Etikečių redagavimas"
+   },
+   "7585826646011739428": {
+      "message": "Redaguoti"
+   },
+   "7819314041543176992": {
+      "message": "Uždaryti"
+   },
+   "7911416166208830577": {
+      "message": "Pagalba"
+   },
+   "8104421162933956065": {
+      "message": "Pastabos"
+   },
+   "8161188819557037260": {
+      "message": "„Chrome“ skirtas „Google Keep“ plėtinys"
+   },
+   "8193677552005249631": {
+      "message": "Programų atsisiuntimai"
+   },
+   "9146862513672039744": {
+      "message": "Išvalyti paskyrą"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Vienu paspaudimu išsaugokite informaciją sistemoje „Google Keep“."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "„Chrome“ skirtas „Google Keep“ plėtinys"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Išsaugojimas sistemoje „Keep“"
+   }
+}

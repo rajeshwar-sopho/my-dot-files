@@ -1,0 +1,12 @@
+2025/03/12-19:30:58.469 22358 Reusing MANIFEST /home/raj/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2025/03/12-19:30:58.469 22358 Recovering log #4
+2025/03/12-19:30:58.479 22358 Reusing old log /home/raj/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000004.log 
+2025/03/12-19:31:03.502 22358 Level-0 table #8: started
+2025/03/12-19:31:03.529 22358 Level-0 table #8: 1173427 bytes OK
+2025/03/12-19:31:03.533 22358 Delete type=0 #4
+2025/03/12-22:33:19.130 22358 Compacting 1@1 + 1@2 files
+2025/03/12-22:33:19.146 22358 Generated table #9@1: 31 keys, 261401 bytes
+2025/03/12-22:33:19.146 22358 Compacted 1@1 + 1@2 files => 261401 bytes
+2025/03/12-22:33:19.148 22358 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/12-22:33:19.148 22358 Delete type=2 #5
+2025/03/12-22:33:19.148 22358 Delete type=2 #8

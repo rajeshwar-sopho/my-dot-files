@@ -1,0 +1,92 @@
+{
+  "1055686627716339120": {
+    "message": "Arquivo"
+  },
+  "2159130950882492111": {
+    "message": "Cancelar"
+  },
+  "2323249770683736002": {
+    "message": "Crear etiqueta nova"
+  },
+  "2983318659047499045": {
+    "message": "Recordatorios"
+  },
+  "3418677553313974490": {
+    "message": "Papeleira"
+  },
+  "3623199266894863617": {
+    "message": "Crear nota"
+  },
+  "4930506384627295710": {
+    "message": "Configuración"
+  },
+  "4974261966265341751": {
+    "message": "Desactivar tema escuro"
+  },
+  "5207635742003539443": {
+    "message": "Iniciar sesión"
+  },
+  "546766753072101168": {
+    "message": "Etiquetas"
+  },
+  "5570885401952336951": {
+    "message": "Rexistro do cliente"
+  },
+  "5775346636203685655": {
+    "message": "Desfacer"
+  },
+  "6857703948759289202": {
+    "message": "Quitouse a ligazón."
+  },
+  "7005745151564974365": {
+    "message": "Atallos de teclado"
+  },
+  "7102649289752747375": {
+    "message": "Enviar comentarios"
+  },
+  "733701029503338559": {
+    "message": "Tes que iniciar sesión para poder utilizar a extensión Google Keep para Chrome"
+  },
+  "7384785369409503695": {
+    "message": "Activar tema escuro"
+  },
+  "7420364754178516134": {
+    "message": "Ferramentas de depuración"
+  },
+  "7528441140724145783": {
+    "message": "Editar etiquetas"
+  },
+  "7585826646011739428": {
+    "message": "Editar"
+  },
+  "7819314041543176992": {
+    "message": "Pechar"
+  },
+  "7911416166208830577": {
+    "message": "Axuda"
+  },
+  "8104421162933956065": {
+    "message": "Notas"
+  },
+  "8161188819557037260": {
+    "message": "Extensión de Chrome de Google Keep"
+  },
+  "8193677552005249631": {
+    "message": "Descargar aplicación"
+  },
+  "9146862513672039744": {
+    "message": "Borrar notas da conta"
+  },
+  "appDesc": {
+    "description": "App description",
+    "message": "Un só clic e xa tes todo gardado en Google Keep!"
+  },
+  "appName": {
+    "description": "App name",
+    "message": "Extensión Google Keep para Chrome"
+  },
+  "shortName": {
+    "description": "App short name",
+    "message": "Gardar en Keep"
+  }
+}

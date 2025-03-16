@@ -1,0 +1,24 @@
+2025/03/08-03:54:29.763 65e2 Reusing MANIFEST /home/raj/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/08-03:54:29.763 65e2 Recovering log #3
+2025/03/08-03:54:29.766 65e2 Reusing old log /home/raj/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2025/03/08-12:36:16.253 65e1 Level-0 table #5: started
+2025/03/08-12:36:16.285 65e1 Level-0 table #5: 1559708 bytes OK
+2025/03/08-12:36:16.288 65e1 Delete type=0 #3
+2025/03/08-15:44:42.915 65e1 Level-0 table #7: started
+2025/03/08-15:44:42.929 65e1 Level-0 table #7: 1550108 bytes OK
+2025/03/08-15:44:42.931 65e1 Delete type=0 #4
+2025/03/08-15:50:16.021 65e1 Compacting 1@1 + 1@2 files
+2025/03/08-15:50:16.032 65e1 Generated table #8@1: 402 keys, 63651 bytes
+2025/03/08-15:50:16.032 65e1 Compacted 1@1 + 1@2 files => 63651 bytes
+2025/03/08-15:50:16.033 65e1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/08-15:50:16.033 65e1 Delete type=2 #5
+2025/03/08-15:50:16.033 65e1 Delete type=2 #7
+2025/03/08-16:13:56.894 65e1 Level-0 table #10: started
+2025/03/08-16:13:56.914 65e1 Level-0 table #10: 1094858 bytes OK
+2025/03/08-16:13:56.916 65e1 Delete type=0 #6
+2025/03/08-16:24:50.043 65e1 Compacting 1@1 + 1@2 files
+2025/03/08-16:24:50.060 65e1 Generated table #11@1: 544 keys, 70130 bytes
+2025/03/08-16:24:50.060 65e1 Compacted 1@1 + 1@2 files => 70130 bytes
+2025/03/08-16:24:50.061 65e1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/08-16:24:50.062 65e1 Delete type=2 #8
+2025/03/08-16:24:50.062 65e1 Delete type=2 #10

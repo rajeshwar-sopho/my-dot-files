@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Archive"
+   },
+   "2159130950882492111": {
+      "message": "Kanselahin"
+   },
+   "2323249770683736002": {
+      "message": "Gumawa ng bagong label"
+   },
+   "2983318659047499045": {
+      "message": "Mga Paalala"
+   },
+   "3418677553313974490": {
+      "message": "Trash"
+   },
+   "3623199266894863617": {
+      "message": "Gumawa ng Tala"
+   },
+   "4930506384627295710": {
+      "message": "Mga Setting"
+   },
+   "4974261966265341751": {
+      "message": "I-disable ang madilim na tema"
+   },
+   "5207635742003539443": {
+      "message": "Mag-sign in"
+   },
+   "546766753072101168": {
+      "message": "Mga Label"
+   },
+   "5570885401952336951": {
+      "message": "Log ng client"
+   },
+   "5775346636203685655": {
+      "message": "I-undo"
+   },
+   "6857703948759289202": {
+      "message": "Naalis ang link."
+   },
+   "7005745151564974365": {
+      "message": "Mga keyboard shortcut"
+   },
+   "7102649289752747375": {
+      "message": "Magpadala ng feedback"
+   },
+   "733701029503338559": {
+      "message": "Dapat kang mag-sign in para magamit ang Extension ng Chrome na Google Keep"
+   },
+   "7384785369409503695": {
+      "message": "I-enable ng madilim na tema"
+   },
+   "7420364754178516134": {
+      "message": "Mga tool sa pag-debug"
+   },
+   "7528441140724145783": {
+      "message": "I-edit ang mga label"
+   },
+   "7585826646011739428": {
+      "message": "I-edit"
+   },
+   "7819314041543176992": {
+      "message": "Isara"
+   },
+   "7911416166208830577": {
+      "message": "Tulong"
+   },
+   "8104421162933956065": {
+      "message": "Mga Tala"
+   },
+   "8161188819557037260": {
+      "message": "Extension ng Chrome na Google Keep"
+   },
+   "8193677552005249631": {
+      "message": "Mga pag-download ng app"
+   },
+   "9146862513672039744": {
+      "message": "I-wipe ang account"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "I-save sa Google Keep sa isang pag-click lang!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Chrome Extension ng Google Keep"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "I-save sa Keep"
+   }
+}

@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Archiwum"
+   },
+   "2159130950882492111": {
+      "message": "Anuluj"
+   },
+   "2323249770683736002": {
+      "message": "Utwórz nową etykietę"
+   },
+   "2983318659047499045": {
+      "message": "Przypomnienia"
+   },
+   "3418677553313974490": {
+      "message": "Kosz"
+   },
+   "3623199266894863617": {
+      "message": "Utwórz notatkę"
+   },
+   "4930506384627295710": {
+      "message": "Ustawienia"
+   },
+   "4974261966265341751": {
+      "message": "Wyłącz ciemny motyw"
+   },
+   "5207635742003539443": {
+      "message": "Zaloguj się"
+   },
+   "546766753072101168": {
+      "message": "Etykiety"
+   },
+   "5570885401952336951": {
+      "message": "Dziennik klienta"
+   },
+   "5775346636203685655": {
+      "message": "Cofnij"
+   },
+   "6857703948759289202": {
+      "message": "Link został usunięty."
+   },
+   "7005745151564974365": {
+      "message": "Skróty klawiszowe"
+   },
+   "7102649289752747375": {
+      "message": "Prześlij opinię"
+   },
+   "733701029503338559": {
+      "message": "Aby używać rozszerzenia Google Keep do Chrome, musisz się zalogować"
+   },
+   "7384785369409503695": {
+      "message": "Włącz ciemny motyw"
+   },
+   "7420364754178516134": {
+      "message": "Narzędzia debugowania"
+   },
+   "7528441140724145783": {
+      "message": "Edytuj etykiety"
+   },
+   "7585826646011739428": {
+      "message": "Edytuj"
+   },
+   "7819314041543176992": {
+      "message": "Zamknij"
+   },
+   "7911416166208830577": {
+      "message": "Pomoc"
+   },
+   "8104421162933956065": {
+      "message": "Notatki"
+   },
+   "8161188819557037260": {
+      "message": "Rozszerzenie Google Keep do Chrome"
+   },
+   "8193677552005249631": {
+      "message": "Pobierz aplikację"
+   },
+   "9146862513672039744": {
+      "message": "Wyczyść konto"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Twórz notatki w Google Keep jednym kliknięciem."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Rozszerzenie Google Keep do Chrome"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Zapisuj w Keep"
+   }
+}

@@ -1,0 +1,26 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "img/icon128.png",
+         "16": "img/icon16.png",
+         "48": "img/icon48.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "bg.js"
+   },
+   "description": "Displays all meta data and main SEO information for the best SEO",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApmlxydvtlP37uoC/WZgLYDKWek59ACUAPu29+fb0z8hVMuTRr1EogQNlPYePQvDy6VT5G7eLWThGg2EiRi87PD34YXcCmx6yEq0MBnVeao06Dh04WARIWouoyh83+PuC/hXhod2HUfa5jLw1fPO8kkJT2zs3LvRchGGVmZt+/un/11KQ0LWK1ff2J6k3eNSod4c9TABBG/RS5W0IAYxnt4V0xMTjxKEpAgcWBxP0RO3kyeHrXTWqG34EW0f1LVo0LFhyqxBDAteTYyHQK3ct7N6XKfVmzPxuTSiIYu+1W5A/RPDsLWvBr8O97q2Bp/dbFrecp+0HkDMT4dh0OBLWqQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "88",
+   "name": "SEO META in 1 CLICK",
+   "permissions": [ "activeTab", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.67"
+}

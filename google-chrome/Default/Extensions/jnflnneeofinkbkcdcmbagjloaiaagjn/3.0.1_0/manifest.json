@@ -1,0 +1,34 @@
+{
+   "action": {
+      "default_icon": "img/ISPY-16.png",
+      "default_title": "Inventory Spy"
+   },
+   "background": {
+      "service_worker": "lib/miner.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "css/loading.css" ],
+      "js": [ "lib/message.js", "lib/results.js" ],
+      "matches": [ "*://www.amazon.com/*", "*://www.amazon.co.uk/*", "*://www.amazon.es/*", "*://www.amazon.nl/*", "*://www.amazon.mx/*", "*://www.amazon.it/*", "*://www.amazon.in/*", "*://www.amazon.de/*", "*://www.amazon.fr/*", "*://www.amazon.cn/*", "*://www.amazon.ca/*", "*://www.amazon.com.br/*", "*://www.amazon.com.au/*", "*://www.amazon.co.jp/*", "*://*.amazon.sg/*", "*://rebelsoftwarellc.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Spy how many products remain on any Amazon Product’s offer listing page. Check your competitor’s stock!",
+   "homepage_url": "https://rebelsoftwarellc.com/inventoryspy/checkout",
+   "icons": {
+      "128": "img/ISPY-128.png",
+      "16": "img/ISPY-16.png",
+      "48": "img/ISPY-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgHvxY2Bge5aTXZvQvahuqlb8U0u/uIlK8h7SFmORtQcxWt2S/vBGuCOj8vel3ZdzmRh66EMMQfB+QeAKwZqu0yohS1ajur/CTmOs5uJcguRA7wE7nwR3NbMLXfzhq3g34e2pWHItNP7z74NYbU/13bh1yQjHtkYFraPilMchMjgAMtYiuJvjUxP+yjSXiW6Nu7Wb22irsT2X9wW0wG4k4Q7TJcMJrfdir8dtWvtLwo/f2ZSbuRMLN0RVH54qFRKbQpnv8oKpwD/M1RKjQ1/NJKsgZ8gB6M8y87RknNW75SLeDSiWiFDL2S9aOhZyfmThpwwkcH/wd2K4qaIeWVafVQIDAQAB",
+   "manifest_version": 3,
+   "name": "Check Competitor Stock Levels - Inventory Spy",
+   "options_page": "options.html",
+   "options_ui": {
+      "page": "options.html"
+   },
+   "permissions": [ "storage", "activeTab", "scripting" ],
+   "short_name": "Inventory Spy",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.1"
+}

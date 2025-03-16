@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Archive"
+   },
+   "2159130950882492111": {
+      "message": "Annuler"
+   },
+   "2323249770683736002": {
+      "message": "Nouveau libellé"
+   },
+   "2983318659047499045": {
+      "message": "Rappels"
+   },
+   "3418677553313974490": {
+      "message": "Corbeille"
+   },
+   "3623199266894863617": {
+      "message": "Créer une note"
+   },
+   "4930506384627295710": {
+      "message": "Paramètres"
+   },
+   "4974261966265341751": {
+      "message": "Désactiver le thème sombre"
+   },
+   "5207635742003539443": {
+      "message": "Connexion"
+   },
+   "546766753072101168": {
+      "message": "Libellés"
+   },
+   "5570885401952336951": {
+      "message": "Journal client"
+   },
+   "5775346636203685655": {
+      "message": "Annuler"
+   },
+   "6857703948759289202": {
+      "message": "Lien supprimé."
+   },
+   "7005745151564974365": {
+      "message": "Raccourcis clavier"
+   },
+   "7102649289752747375": {
+      "message": "Votre avis"
+   },
+   "733701029503338559": {
+      "message": "Vous devez vous connecter à votre compte pour pouvoir utiliser l'extension Google Keep pour Chrome."
+   },
+   "7384785369409503695": {
+      "message": "Activer le thème sombre"
+   },
+   "7420364754178516134": {
+      "message": "Outils de débogage"
+   },
+   "7528441140724145783": {
+      "message": "Modifier les libellés"
+   },
+   "7585826646011739428": {
+      "message": "Modifier"
+   },
+   "7819314041543176992": {
+      "message": "Fermer"
+   },
+   "7911416166208830577": {
+      "message": "Aide"
+   },
+   "8104421162933956065": {
+      "message": "Notes"
+   },
+   "8161188819557037260": {
+      "message": "Extension Google Keep pour Chrome"
+   },
+   "8193677552005249631": {
+      "message": "Téléchargements de l'application"
+   },
+   "9146862513672039744": {
+      "message": "Effacer les données du compte"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Enregistrez des contenus dans Google Keep d'un seul clic !"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Extension Google Keep pour Chrome"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Enregistrez dans Keep"
+   }
+}

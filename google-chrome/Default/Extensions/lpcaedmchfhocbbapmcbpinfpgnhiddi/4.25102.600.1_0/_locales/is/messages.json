@@ -1,0 +1,92 @@
+{
+  "1055686627716339120": {
+    "message": "Geymsla"
+  },
+  "2159130950882492111": {
+    "message": "Hætta við"
+  },
+  "2323249770683736002": {
+    "message": "Búa til nýjan flokk"
+  },
+  "2983318659047499045": {
+    "message": "Áminningar"
+  },
+  "3418677553313974490": {
+    "message": "Rusl"
+  },
+  "3623199266894863617": {
+    "message": "Búa til glósu"
+  },
+  "4930506384627295710": {
+    "message": "Stillingar"
+  },
+  "4974261966265341751": {
+    "message": "Slökkva á dökku þema"
+  },
+  "5207635742003539443": {
+    "message": "Skrá inn"
+  },
+  "546766753072101168": {
+    "message": "Flokkar"
+  },
+  "5570885401952336951": {
+    "message": "Annáll biðlara"
+  },
+  "5775346636203685655": {
+    "message": "Afturkalla"
+  },
+  "6857703948759289202": {
+    "message": "Tengill fjarlægður."
+  },
+  "7005745151564974365": {
+    "message": "Flýtilyklar"
+  },
+  "7102649289752747375": {
+    "message": "Senda ábendingu"
+  },
+  "733701029503338559": {
+    "message": "Þú þarft að skrá þig inn til að nota Chrome viðbótina fyrir Google Keep"
+  },
+  "7384785369409503695": {
+    "message": "Virkja dökkt þema"
+  },
+  "7420364754178516134": {
+    "message": "Villuleitarverkfæri"
+  },
+  "7528441140724145783": {
+    "message": "Breyta flokkum"
+  },
+  "7585826646011739428": {
+    "message": "Breyta"
+  },
+  "7819314041543176992": {
+    "message": "Loka"
+  },
+  "7911416166208830577": {
+    "message": "Hjálp"
+  },
+  "8104421162933956065": {
+    "message": "Glósur"
+  },
+  "8161188819557037260": {
+    "message": "Chrome viðbótin fyrir Google Keep"
+  },
+  "8193677552005249631": {
+    "message": "Sækja forrit"
+  },
+  "9146862513672039744": {
+    "message": "Eyða af reikningi"
+  },
+  "appDesc": {
+    "description": "App description",
+    "message": "Vistaðu í Google Keep með einum smelli!"
+  },
+  "appName": {
+    "description": "App name",
+    "message": "Chrome viðbótin fyrir Google Keep"
+  },
+  "shortName": {
+    "description": "App short name",
+    "message": "Vista í Keep"
+  }
+}

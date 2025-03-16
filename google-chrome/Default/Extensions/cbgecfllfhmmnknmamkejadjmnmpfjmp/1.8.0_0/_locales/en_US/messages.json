@@ -1,0 +1,224 @@
+{
+   "addOpenAIKey": {
+      "message": "Please add your OpenAI API Key"
+   },
+   "aiProvider": {
+      "description": "Used for selecting the AI provider",
+      "message": "AI Provider"
+   },
+   "apiKey": {
+      "description": "Used for selecting the API Key",
+      "message": "API Key"
+   },
+   "appDesc": {
+      "description": "The descirption of the web-extension (132)",
+      "message": "Summarize or chat with Websites/Youtube using ChatGPT. Get the summary & key takeaways / ask questions! Summarize * AMA * GPT4 * PDF"
+   },
+   "appName": {
+      "description": "The name of the web-extension (45)",
+      "message": "ChatGPT » Summarize & Chat"
+   },
+   "appearance": {
+      "description": "Used for describing the appearance settings section",
+      "message": "Appearance"
+   },
+   "askQuestion": {
+      "message": "Ask question (Beta)"
+   },
+   "askQuestionIntro": {
+      "message": "Hello! 🤖 I'm here to help answer any questions you have about this page's content. How can I assist you today?"
+   },
+   "authenticateChatGPT": {
+      "message": "Please Authenticate using ChatGPT"
+   },
+   "availableAskQuestion": {
+      "message": "Available only with OpenAPI provider"
+   },
+   "behaviour": {
+      "description": "Used for describing the behaviour settings section",
+      "message": "Behaviour"
+   },
+   "chat": {
+      "description": "Tab label",
+      "message": "Chat"
+   },
+   "chatGPTProviderDescription": {
+      "description": "Description of the ChatGPT API Provider",
+      "message": "The API that powers ChatGPT webapp, free, but sometimes unstable"
+   },
+   "chatgptLoggedIn": {
+      "message": "ChatGPT logged in"
+   },
+   "chatgptNotLoggedIn": {
+      "message": "ChatGPT not logged in"
+   },
+   "close": {
+      "description": "Used for closing the extension popup",
+      "message": "Close"
+   },
+   "copy": {
+      "description": "Used for copying text to clipboard",
+      "message": "Copy"
+   },
+   "defaultQuestion": {
+      "description": "The default question used for ChatGPT",
+      "message": "Your output should use the following template:\n- Emoji Bulletpoint\n\nSummarize the text I give you in an appropriate amount of concise bulletpoints. Pick a suitable emoji for every bullet point. Your response should be in {{SELECTED_LANGUAGE}}. Use the following content: {{CONTENT}}"
+   },
+   "defaultQuestionGPT4": {
+      "description": "The default question used for ChatGPT",
+      "message": "Condense the provided text into concise bulletpoints, selecting a fitting emoji for each, and respond in {{SELECTED_LANGUAGE}} using the content: {{CONTENT}}."
+   },
+   "defaultSystemMessage": {
+      "description": "The default System Message used for ChatGPT",
+      "message": ""
+   },
+   "extractingPageContent": {
+      "description": "Status message used when extracting page content",
+      "message": "Extracting page content..."
+   },
+   "failedToLoadResponseFromChatGPT": {
+      "description": "Status message used when failed to load response from ChatGPT",
+      "message": "Failed to load response from ChatGPT"
+   },
+   "happySumarize": {
+      "message": "Happy summarizing"
+   },
+   "howToObtainKey": {
+      "message": "How to obtain your API Key"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "installSuccess": {
+      "description": "Success message after installing the extension",
+      "message": "Ready! Summarize any webpage or Youtube video with one click using ChatGPT Suite! Contact us for any \u003Ca>questions or feedback\u003C/a>. Happy summarizing!"
+   },
+   "loading": {
+      "description": "Status message used when loading",
+      "message": "Loading..."
+   },
+   "login": {
+      "message": "Login"
+   },
+   "memory": {
+      "description": "Used for describing the memory settings section",
+      "message": "Memory"
+   },
+   "misc": {
+      "description": "Used for describing the misc settings section",
+      "message": "Misc"
+   },
+   "model": {
+      "description": "Used for selecting the model",
+      "message": "Model"
+   },
+   "moreInfo": {
+      "description": "Used for opening a new modal with more info",
+      "message": "More Info"
+   },
+   "openAIProviderDescription": {
+      "description": "Description of the OpenAI API Provider",
+      "message": "OpenAI official API, more stable, charge by usage"
+   },
+   "options": {
+      "description": "Used for opening the extension options",
+      "message": "Options"
+   },
+   "originalTranscript": {
+      "description": "Tab label",
+      "message": "Original transcript"
+   },
+   "pinExtensionTutorial": {
+      "description": "Tutorial message for pinning the extension to the toolbar",
+      "message": "Pin this extension to your toolbar to get started."
+   },
+   "prompt": {
+      "description": "Used for describing the prompt settings section",
+      "message": "Prompt"
+   },
+   "question": {
+      "description": "Used for selecting the question",
+      "message": "Question"
+   },
+   "rateExtensionInWebstore": {
+      "message": "Enjoy this extension? Give us a 5-star rating"
+   },
+   "ready": {
+      "message": "Ready"
+   },
+   "recommendExtension": {
+      "message": "with the summary? Please share \u003Ca>the extension\u003C/a>"
+   },
+   "refreshOpenAILogin": {
+      "message": "Please login and pass Cloudflare check at \u003Ca>chatgpt.com\u003C/a>"
+   },
+   "requestOpenAIProvider": {
+      "description": "Status message when failed to load response from OpenAI second time in a row",
+      "message": "OpenAI requires passing a security check every once in a while. If this keeps happening, change AI provider to OpenAI API in the extension options."
+   },
+   "reset": {
+      "description": "Used for resetting the extension options",
+      "message": "Reset"
+   },
+   "retry": {
+      "description": "Used invalidating a ChatGPT answer",
+      "message": "Retry"
+   },
+   "save": {
+      "description": "Used for saving the extension options",
+      "message": "Save"
+   },
+   "selectProviderToSummarize": {
+      "message": "Please choose your Provider to summarize"
+   },
+   "showSummarizeButton": {
+      "message": "Show floating summarize button"
+   },
+   "showYoutubeButton": {
+      "message": "Show YouTube summarize button"
+   },
+   "summarize": {
+      "description": "Tab label",
+      "message": "Summarize"
+   },
+   "summarizeAll": {
+      "message": "Summarize all"
+   },
+   "summarizeFullText": {
+      "message": "Always summarize full text"
+   },
+   "summarizeNextBatch": {
+      "message": "Summarize next batch"
+   },
+   "summarizeText": {
+      "message": "Summarize selected text"
+   },
+   "summarized": {
+      "message": "Summarized"
+   },
+   "summary": {
+      "message": "Summary"
+   },
+   "systemMessage": {
+      "description": "Used for selecting the System Message",
+      "message": "System Message"
+   },
+   "thankYouForInstalling": {
+      "description": "Thank you message after installing the extension",
+      "message": "Thank you for installing"
+   },
+   "tryItNow": {
+      "description": "Action button used after successful installation",
+      "message": "Try it now"
+   },
+   "useOpenAiApi": {
+      "message": "Use your OpenAI API Key"
+   },
+   "waitingForChatGPTResponse": {
+      "description": "Status message used when waiting for ChatGPT response",
+      "message": "Waiting for ChatGPT response..."
+   },
+   "wrongApiKey": {
+      "message": "Could not fetch models. Please check your API key."
+   }
+}

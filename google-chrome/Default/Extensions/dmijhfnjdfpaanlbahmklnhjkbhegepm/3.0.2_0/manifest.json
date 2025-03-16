@@ -1,0 +1,21 @@
+{
+   "action": {
+      "default_icon": "icon.png",
+      "default_title": "Work Mode - Custom URL Blocking"
+   },
+   "background": {
+      "service_worker": "service_worker.js"
+   },
+   "description": "Block ALL Time-Wasting Websites & Custom URL Blocking When You're On the Clock. Custom URL Block Extension. By Shreyas Tallamraju.",
+   "host_permissions": [ "*://*/*" ],
+   "icons": {
+      "128": "icon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsuJKdcngpMqIXoQxFDuq1yVDBhmrK1jVaYcivRWZZUEwSPGQlrf8MIuh+nF6hd9PbUF4m+WQOddxw5UkEREjfdb+xEzQNnttO4nuP5O1LteguebRaX5505I9/3y3ggr4Qg7IjmgsGcBCedUk7Egv8iRK1Qwzq6v9eMnOpgTslu1Zz6Y2M5ALA2xElwmzDk+ZJrjs+IdcQ0nUcb+x7PUT/CR79eB0d+hjeZN19inuoS1KT+xLT02WjtWND8D+SQfzGzK71kbQm3pzhoU47y+5ITB3zS4i35GUVnTqeDeaFXOhRJ3sJTRU0CEc4BunBUOtOl2H2MlxhMen47tPPywfLQIDAQAB",
+   "manifest_version": 3,
+   "name": "Work Mode - Block ALL Social Media URL Block",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.2"
+}

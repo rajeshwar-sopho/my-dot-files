@@ -1,0 +1,92 @@
+{
+  "1055686627716339120": {
+    "message": "Artxiboa"
+  },
+  "2159130950882492111": {
+    "message": "Utzi"
+  },
+  "2323249770683736002": {
+    "message": "Sortu etiketa"
+  },
+  "2983318659047499045": {
+    "message": "Abisuak"
+  },
+  "3418677553313974490": {
+    "message": "Zaborrontzia"
+  },
+  "3623199266894863617": {
+    "message": "Sortu ohar bat"
+  },
+  "4930506384627295710": {
+    "message": "Ezarpenak"
+  },
+  "4974261966265341751": {
+    "message": "Desgaitu gai iluna"
+  },
+  "5207635742003539443": {
+    "message": "Hasi saioa"
+  },
+  "546766753072101168": {
+    "message": "Etiketak"
+  },
+  "5570885401952336951": {
+    "message": "Bezeroaren erregistroa"
+  },
+  "5775346636203685655": {
+    "message": "Desegin"
+  },
+  "6857703948759289202": {
+    "message": "Esteka kendu da."
+  },
+  "7005745151564974365": {
+    "message": "Lasterbideak"
+  },
+  "7102649289752747375": {
+    "message": "Bidali oharrak"
+  },
+  "733701029503338559": {
+    "message": "Chrome-rako Google Keep luzapena erabiltzeko, saioa hasi behar duzu"
+  },
+  "7384785369409503695": {
+    "message": "Gaitu gai iluna"
+  },
+  "7420364754178516134": {
+    "message": "Arazketa-tresnak"
+  },
+  "7528441140724145783": {
+    "message": "Editatu etiketak"
+  },
+  "7585826646011739428": {
+    "message": "Editatu"
+  },
+  "7819314041543176992": {
+    "message": "Itxi"
+  },
+  "7911416166208830577": {
+    "message": "Laguntza"
+  },
+  "8104421162933956065": {
+    "message": "Oharrak"
+  },
+  "8161188819557037260": {
+    "message": "Google Keep-en Chrome-rako luzapena"
+  },
+  "8193677552005249631": {
+    "message": "Aplikazioen deskargak"
+  },
+  "9146862513672039744": {
+    "message": "Xahutu kontua"
+  },
+  "appDesc": {
+    "description": "App description",
+    "message": "Google Keep aplikazioari esker klik bakarrarekin gorde ahalko duzu buruan darabilzuna!"
+  },
+  "appName": {
+    "description": "App name",
+    "message": "Google Keep-en Chrome luzapena"
+  },
+  "shortName": {
+    "description": "App short name",
+    "message": "Gorde Keep-en"
+  }
+}

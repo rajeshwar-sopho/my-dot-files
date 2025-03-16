@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en" ng-app="jsonFormatterApp" ng-csp>
+
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+	<meta name="description" content="Pretty print your HTML, CSS, and XML. Formatting for easier reading!" />
+	<meta name="author" content="LinangData" />
+
+	<link rel="stylesheet" href="libs/bootstrap-5.0.1/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="libs/bootstrap-icons-1.5.0/bootstrap-icons.css">
+	<!-- <link rel="stylesheet" href="libs/bootstrap-3.3.6/css/bootstrap.min.css" /> -->
+	<link rel="stylesheet" href="libs/codemirror-5.2.0/codemirror.min.css">
+	<link rel="stylesheet" href="libs/codemirror-5.2.0/rubyblue.min.css">
+	<link rel="stylesheet" href="css/styles.css" />
+	<script src="libs/jquery-3.5.1.min.js"></script>
+
+	<title>Pretty HTML | CSS | XML</title>
+</head>
+
+<body ng-controller="codeCtrl">
+	<nav class="navbar navbar-dark bg-dark navbar-static-top navbar-expand pb-0" role="navigation">
+		<div class="container-fluid">
+			<!-- <a class="navbar-brand" href="#">Navbar</a> -->
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+				data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+				aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+					<li class="nav-item"><a class="home icon nav-link navopentab" href="https://linangdata.com/"><i
+								class="bi bi-house-door"></i> Home</a></li>
+					<li class="nav-item dropdown moretools d-none">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown"
+							title="More tools for you!" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+							<i class="bi bi-asterisk"></i> More
+						</a>
+						<ul id="links" class="dropdown-menu bg-dark" aria-labelledby="navbarScrollingDropdown">
+						</ul>
+					</li>
+
+					<li class="nav-item">
+						<a class="navopenfullpage icon nav-link" href="https://linangdata.com/html-pretty/"><i
+								class="bi bi-info-circle"></i> Help/Full Page</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div class="linangdata">
+		<span id="linangdata" data-placement="auto" data-toggle="tooltip" title="Visit Linangdata.com"><img
+				src="css/favicon/24x24.png" class="flipHoriz" /></span>
+	</div>
+
+	<div id="formatter" class="d-flex example large">
+		<div class="w-50 pe-2">
+			<div class="d-flex mb-1">
+				<button data-placement="auto" data-toggle="tooltip" title="Clear text areas..."
+					class="btn btn-sm btn-danger btnPad me-1" ng-click="rawcode = '';code = ''; setLastState('')">Clear
+					<span class="bi bi-x-circle-fill"></span>
+				</button>
+				<button data-placement="auto" data-toggle="tooltip" title="Paste from clipboard and replace content ..."
+					class="btn btn-sm btn-danger btnPad me-1" ng-click="pasteFromCB()">Paste
+					<span class="bi bi-clipboard-minus"></span>
+				</button>
+				<button data-placement="auto" data-toggle="tooltip" title="Paste from clipboard and append..."
+					class="btn btn-sm btn-danger btnPad me-1" ng-click="appendHTML()">Append
+					<span class="bi bi-clipboard-minus"></span>
+				</button>
+				<br />
+			</div>
+			<div class="">
+				<div class="form-group">
+					<textarea class=" form-control field span12" id="textarea" ng-model="rawcode" rows="16"
+						placeholder="Type or paste your source here..."></textarea>
+				</div>
+			</div>
+		</div>
+		<div class="w-50">
+			<div class="d-flex mb-1">
+				<button data-placement="auto" data-toggle="tooltip" title="Copy formatted content to the clipboard..."
+					class="btn btn-sm btn-danger btnPad me-1" ng-click="getCopyHTMLToCB()">Copy
+					<span class="bi bi-clipboard-plus "></span>
+				</button>
+				<button data-placement="auto" data-toggle="tooltip" title="Replace source with formatted content..."
+					class="btn btn-sm btn-danger btnPad me-1" ng-click="replaceHtml()">Replace
+					<span class="bi bi-clipboard-minus"></span>
+				</button>
+			</div>
+			<div class="">
+				<div class="form-group">
+					<textarea ui-codemirror ng-model="code" id="formattedJson" ui-refresh="isSomething"
+						placeholder="Your formatted content appears here:..."></textarea>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="libs/bootstrap-5.0.1/js/bootstrap.bundle.min.js"></script>
+	<script src="libs/angular.min.js"></script>
+
+	<script src="libs/angular-ui.min.js"></script>
+	<script src="libs/codemirror-5.2.0/codemirror.min.js"></script>
+	<script src="libs/codemirror-5.2.0/placeholder.js"></script>
+	<script src="libs/codemirror-5.2.0/javascript.min.js"></script>
+
+	<script src="libs/ui-bootstrap-tpls.min.js"></script>
+
+	<script src="libs/beautify/beautify.min.js"></script>
+	<script src="libs/beautify/beautify-html.js"></script>
+	<script src="libs/beautify/beautify-css.min.js"></script>
+	<script src="libs/beautify/mybeautify.js"></script>
+
+	<script src="app.js"></script>
+
+</body>
+
+</html>

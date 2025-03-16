@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Arsipkan"
+   },
+   "2159130950882492111": {
+      "message": "Batal"
+   },
+   "2323249770683736002": {
+      "message": "Buat label baru"
+   },
+   "2983318659047499045": {
+      "message": "Pengingat"
+   },
+   "3418677553313974490": {
+      "message": "Sampah"
+   },
+   "3623199266894863617": {
+      "message": "Buat Catatan"
+   },
+   "4930506384627295710": {
+      "message": "Setelan"
+   },
+   "4974261966265341751": {
+      "message": "Nonaktifkan tema gelap"
+   },
+   "5207635742003539443": {
+      "message": "Login"
+   },
+   "546766753072101168": {
+      "message": "Label"
+   },
+   "5570885401952336951": {
+      "message": "Log klien"
+   },
+   "5775346636203685655": {
+      "message": "Urungkan"
+   },
+   "6857703948759289202": {
+      "message": "Link dihapus."
+   },
+   "7005745151564974365": {
+      "message": "Pintasan keyboard"
+   },
+   "7102649289752747375": {
+      "message": "Kirim masukan"
+   },
+   "733701029503338559": {
+      "message": "Anda harus login untuk menggunakan Ekstensi Chrome Google Keep"
+   },
+   "7384785369409503695": {
+      "message": "Aktifkan tema gelap"
+   },
+   "7420364754178516134": {
+      "message": "Fitur debug"
+   },
+   "7528441140724145783": {
+      "message": "Edit label"
+   },
+   "7585826646011739428": {
+      "message": "Edit"
+   },
+   "7819314041543176992": {
+      "message": "Tutup"
+   },
+   "7911416166208830577": {
+      "message": "Bantuan"
+   },
+   "8104421162933956065": {
+      "message": "Catatan"
+   },
+   "8161188819557037260": {
+      "message": "Ekstensi Google Keep untuk Chrome"
+   },
+   "8193677552005249631": {
+      "message": "Aplikasi yang didownload"
+   },
+   "9146862513672039744": {
+      "message": "Hapus total akun"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Simpan di Google Keep dengan sekali klik!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Ekstensi Google Keep untuk Chrome"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Simpan di Keep"
+   }
+}

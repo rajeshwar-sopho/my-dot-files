@@ -1,0 +1,210 @@
+{
+   "add_account_button_text": {
+      "description": "Text for the Add Account button. Directs the user to a page where they can sign into a google account",
+      "message": "Add account"
+   },
+   "admin_install_required_text": {
+      "description": "Text shown for ADMIN_INSTALL_REQUIRED. On ChromeOS devices only, the extension must be force installed on the device by the Google Workspace administrator who manages the device. See https://support.google.com/chrome/a/answer/6306504 for more context",
+      "message": "This extension must be force installed by the enterprise admin on ChromeOS."
+   },
+   "bce_api_helper_download_button": {
+      "description": "Text shown on the API helper download button.",
+      "message": "DOWNLOAD"
+   },
+   "bce_api_helper_download_prompt": {
+      "description": "Text shown to ask user to download and install API Helper.",
+      "message": "Download and install BeyondCorp Enterprise native helper."
+   },
+   "bce_certificate_install_notification": {
+      "description": "Text shown to the user in Chrome notification body for certificate install.",
+      "message": "Your admin has updated Proxy certificates. A browser restart maybe required after certificate installation."
+   },
+   "bce_certificate_management_failure_text": {
+      "description": "Text shown to the user if certificate install failed.",
+      "message": "Failed to install certificates. A sync will be retried shortly. Please contact your enterprise administrator if the issue continues."
+   },
+   "bce_empty_proxy_list": {
+      "description": "Text shown to the user when tenant config is empty.",
+      "message": "No tenant configuration was found."
+   },
+   "bce_initial_sync_promt": {
+      "description": "Text shown to perform the first sync that may install certificates.",
+      "message": "Sync now to install CA certificates."
+   },
+   "bce_proxy_auth_generic_error": {
+      "description": "Text shown to the user when authentication with proxy fails.",
+      "message": "BeyondCorp Extension encountered an error while authenticating with the Proxy. A sync will be retried shortly. Please contact your enterprise administrator if the issue persists."
+   },
+   "bce_restart_prompt": {
+      "description": "Text shown to ask user to restart the browser.",
+      "message": "Restart the browser. Please visit chrome://restart to restart."
+   },
+   "bce_signin_prompt": {
+      "description": "Text shown when no accounts are logged in. Users must be signed in with a google account.",
+      "message": "requires you to be logged into your work account."
+   },
+   "bce_sync_additional_info": {
+      "description": "Additional test to shown to the user after a sync.",
+      "message": "You can now access your enterprise applications."
+   },
+   "bce_sync_button_text": {
+      "description": "Text on the sync button. 'Sync', both here and in other messages, refers to syncing the latest proxy configuration from the server.",
+      "message": "Sync"
+   },
+   "bce_sync_failure_text": {
+      "description": "Text shown to the user if a configuration sync failed.",
+      "message": "Failed to sync. A sync will be retried shortly. Please contact your enterprise administrator if the issue persists."
+   },
+   "bce_title": {
+      "description": "The name of the extension.",
+      "message": "BeyondCorp Enterprise Proxy"
+   },
+   "clear_log": {
+      "description": "Text for a title of the clear log button",
+      "message": "Clear"
+   },
+   "consent_more_details": {
+      "description": "Continuation of the 'consent_text' message. 'Details' means more information regarding the Google Privacy Policy",
+      "message": "For more details, click"
+   },
+   "consent_more_details_link": {
+      "description": "Continuation of the 'consent_more_details' message. It is separate because this text will be turned into a clickable link to a separate information page.",
+      "message": "here."
+   },
+   "consent_text": {
+      "description": "The consent message shown to the user.",
+      "message": "Your enterprise administrator is protecting this device with"
+   },
+   "data_integrity_error_text": {
+      "description": "Text shown for DATA_INTEGRITY_ERROR.",
+      "message": "Can't sync because of a data integrity error. Reenrolling the device through a manual sync might resolve the issue."
+   },
+   "data_protection_key_error_text": {
+      "description": "Text shown for DATA_PROTECTION_KEY_ERROR.",
+      "message": "Failed to recover data protection key."
+   },
+   "disabled_accounts": {
+      "description": "Text shown for the list of disabled accounts. Refers to accounts which the user is signed into but have not been enabled by the domain administrator",
+      "message": "These accounts are not enabled for"
+   },
+   "download_log": {
+      "description": "Text for a button that downloads the extension log file to the user's machine",
+      "message": "Download log"
+   },
+   "dpapi_failure_error_text": {
+      "description": "Text shown for DPAPI related errors on Windows only.",
+      "message": "Can't sync because of a Data Protection API error."
+   },
+   "explanation": {
+      "description": "Explanation of the extension. The extension collects device information such as OS information (the operating system, os version number), identifiers (serial number, mac address), and the user using the device. This information is collected and may be viewed in the Google Workspace Admin console by a Google Workspace administrator",
+      "message": "allows Google Workspace administrators to view laptop and desktop status, including OS, device, and user information."
+   },
+   "extension_description": {
+      "description": "Description of the extension that displays in the Chrome Web Store. Essentially the same as 'explanation_internal' message",
+      "message": "Allows Google Workspace administrators to view laptop and desktop status, including OS, device, and user information."
+   },
+   "force_sync": {
+      "description": "Text for a button that forces a sync",
+      "message": "Force Sync"
+   },
+   "get_auth_token_error_text": {
+      "description": "Error text shown when getAuthToken API fails.",
+      "message": "Unable to authenticate, please make sure you are signed into your account and try again."
+   },
+   "get_help_link_text": {
+      "description": "Text shown for troubleshooting help article link.",
+      "message": "Get help."
+   },
+   "keychain_auth_error_text": {
+      "description": "Text shown for Keychain authorization errors on MacOS only.",
+      "message": "Can't sync because of a Keychain authorization error."
+   },
+   "keychain_locked_error_text": {
+      "description": "Text shown for Keychain locked errors on MacOS only.",
+      "message": "Can't sync because the keychain is locked."
+   },
+   "last_sync_date": {
+      "description": "Text shown in popup when all accounts have synced at least once. Will be displayed along with a date: i.e. 'Last sync: 07/24/2018 12:00:00'",
+      "message": "Last sync"
+   },
+   "log_level_label": {
+      "description": "Label for the Log Level combo box on the options page",
+      "message": "Log Level:"
+   },
+   "native_messaging_download_text": {
+      "description": "Text shown as a Native Helper download link.",
+      "message": "download"
+   },
+   "native_messaging_error_text_1": {
+      "description": "First part of the text shown for NATIVE_MESSAGING_UNAVAILABLE. 'Native Helper' here and in other messages refers to a native binary that must be installed along with the extension in order for the extension to function properly.",
+      "message": "Required components are missing on this machine. Please"
+   },
+   "native_messaging_error_text_1_chrome": {
+      "description": "First part of the text shown for NATIVE_MESSAGING_UNAVAILABLE. 'Native Helper' here and in other messages refers to a native binary that must be installed along with the extension in order for the extension to function properly.",
+      "message": "Required components are missing on this machine. Please either update Chrome to the latest version or"
+   },
+   "native_messaging_error_text_2": {
+      "description": "Second part of the text shown for NATIVE_MESSAGING_UNAVAILABLE. 'Native Helper' here and in other messages refers to a native binary that must be installed along with the extension in order for the extension to function properly.",
+      "message": " and install the Native Helper package."
+   },
+   "network_failure_text": {
+      "description": "Text shown for NETWORK_FAILURE. 'Sync' here means sending device information to our server. The message means that we were unable to send the information due to device being offline",
+      "message": "Last sync failed due to no network connection."
+   },
+   "no_sync_date": {
+      "description": "Text shown in popup when some account has not been synced before",
+      "message": "No known sync date."
+   },
+   "options_page_title_external": {
+      "description": "Title of the external version of the options page",
+      "message": "Endpoint Verification Options"
+   },
+   "options_page_title_internal": {
+      "description": "Title of the internal version of the options page",
+      "message": "SecureConnect Reporting Options"
+   },
+   "platform_keys_inaccessible_text": {
+      "description": "Text shown for PLATFORM_KEYS_INACCESSIBLE. 'Client certificates' and 'keys' here refer cryptographic keys and certificates used to establish secure internet connections. On ChromeOS devices, the extension requires a specific setting to be enabled in order to be able to use these",
+      "message": "The extension needs access to client certificates and keys on ChromeOS."
+   },
+   "proxy_uncontrolled_text": {
+      "description": "Text shown to the user when proxy control has been lost by the extension.",
+      "message": "BeyondCorp Proxy is unable to apply proxy settings. This may happen if there are other extensions managing the browser's proxy settings."
+   },
+   "real_time_log": {
+      "description": "Text for a title of the real time log view",
+      "message": "Real time log"
+   },
+   "show_log": {
+      "description": "Text for a button that opens the extension log window",
+      "message": "Show log"
+   },
+   "signin_prompt": {
+      "description": "Text shown when no accounts are logged in. Users must be signed in with a google account on a domain that has SecureConnect enabled (typically a work or school account)",
+      "message": "requires you to be logged into your work or school account."
+   },
+   "sync_button_text": {
+      "description": "Text on the sync button. 'Sync', both here and in other messages, refers to sending device information to our server",
+      "message": "Sync Now"
+   },
+   "sync_error_text": {
+      "description": "Text shown for GENERIC_FAILURE. 'Sync' here means sending device information to our server. The message means that we were unable to send the information and will attempt to try again shortly",
+      "message": "Failed to sync. A sync will be retried shortly."
+   },
+   "title_external": {
+      "description": "The external name of the extension",
+      "message": "Endpoint Verification"
+   },
+   "title_internal": {
+      "description": "The internal (googlers-only) name of the extension",
+      "message": "SecureConnect Reporting"
+   },
+   "tnc_button_text": {
+      "description": "TnC accpet button text",
+      "message": "ACCEPT"
+   },
+   "troubleshooting_section_title": {
+      "description": "Title for the 'troubleshooting' section of the options page",
+      "message": "Troubleshooting"
+   }
+}

@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Arhivă"
+   },
+   "2159130950882492111": {
+      "message": "Anulează"
+   },
+   "2323249770683736002": {
+      "message": "Creează o etichetă nouă"
+   },
+   "2983318659047499045": {
+      "message": "Mementouri"
+   },
+   "3418677553313974490": {
+      "message": "Coș de gunoi"
+   },
+   "3623199266894863617": {
+      "message": "Creează o notă"
+   },
+   "4930506384627295710": {
+      "message": "Setări"
+   },
+   "4974261966265341751": {
+      "message": "Dezactivează tema întunecată"
+   },
+   "5207635742003539443": {
+      "message": "Conectează-te"
+   },
+   "546766753072101168": {
+      "message": "Etichete"
+   },
+   "5570885401952336951": {
+      "message": "Jurnal client"
+   },
+   "5775346636203685655": {
+      "message": "Anulează"
+   },
+   "6857703948759289202": {
+      "message": "Linkul a fost eliminat."
+   },
+   "7005745151564974365": {
+      "message": "Comenzi rapide tastatură"
+   },
+   "7102649289752747375": {
+      "message": "Trimite feedback"
+   },
+   "733701029503338559": {
+      "message": "Trebuie să te conectezi pentru a folosi extensia Google Keep Chrome"
+   },
+   "7384785369409503695": {
+      "message": "Activează tema întunecată"
+   },
+   "7420364754178516134": {
+      "message": "Instrumente de remediere a erorilor"
+   },
+   "7528441140724145783": {
+      "message": "Editează etichetele"
+   },
+   "7585826646011739428": {
+      "message": "Editează"
+   },
+   "7819314041543176992": {
+      "message": "Închide"
+   },
+   "7911416166208830577": {
+      "message": "Ajutor"
+   },
+   "8104421162933956065": {
+      "message": "Note"
+   },
+   "8161188819557037260": {
+      "message": "Extensia Google Keep Chrome"
+   },
+   "8193677552005249631": {
+      "message": "Descărcări de aplicații"
+   },
+   "9146862513672039744": {
+      "message": "Șterge notele din cont"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Salvați în Google Keep cu un singur clic!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Extensia Google Keep pentru Chrome"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Salvați în Keep"
+   }
+}

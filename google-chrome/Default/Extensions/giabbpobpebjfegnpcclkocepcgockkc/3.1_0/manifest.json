@@ -1,0 +1,43 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "/icons/default/128x128.png",
+         "16": "/icons/default/16x16.png",
+         "19": "/icons/default/19x19.png",
+         "38": "/icons/default/38x38.png",
+         "48": "/icons/default/48x48.png"
+      },
+      "default_title": "Screenshot Capture"
+   },
+   "background": {
+      "service_worker": "background/index.js"
+   },
+   "commands": {
+      "take-screenshot": {
+         "description": "Take Screenshot",
+         "suggested_key": {
+            "default": "Alt+S"
+         }
+      }
+   },
+   "description": "Capture viewport, crop & save to file, copy to clipboard as binary or data URL",
+   "homepage_url": "https://chromewebstore.google.com/detail/screenshot-capture/giabbpobpebjfegnpcclkocepcgockkc",
+   "icons": {
+      "128": "/icons/default/128x128.png",
+      "16": "/icons/default/16x16.png",
+      "19": "/icons/default/19x19.png",
+      "38": "/icons/default/38x38.png",
+      "48": "/icons/default/48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmt7MmKNs0q0oD6uq2U2thiD/QxnAqh0vvQJfOakFdVbzauOn66b3YkqGAxFo2AEvMQOBHUdvHuMQNkwqYvF1d8cR3YNyZHrqjcNZ5+kx1oy3X+X8HKbKqdXZMx4PSNoP4wH5HsOa+Rygy1QC65dN046Lo4x4/DaZ0E0oQ2rZxqiIQgIflD7+29D0l52PY0Uv8qcT9fSJ8F6K3PZuk3xtwDF95j0qU471C7v+1oRlvs/6zvRifcK5DpcoaTa5Uxd9rq2TQZfWJVi/pIO1NH4KGLxDrpZPEl0FMq5UvSB/IGqAo8S2vSRiXCWQ96nHCwogG/L7Bhn1798dzHXtsElCKwIDAQAB",
+   "manifest_version": 3,
+   "name": "Screenshot Capture",
+   "options_page": "/options/index.html",
+   "permissions": [ "storage", "scripting", "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "/vendor/Jcrop.gif", "/content/pixel.png" ]
+   } ]
+}

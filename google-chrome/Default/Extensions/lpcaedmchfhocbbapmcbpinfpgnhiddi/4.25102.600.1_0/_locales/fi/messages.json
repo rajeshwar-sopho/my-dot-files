@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Arkisto"
+   },
+   "2159130950882492111": {
+      "message": "Peru"
+   },
+   "2323249770683736002": {
+      "message": "Luo uusi tunniste"
+   },
+   "2983318659047499045": {
+      "message": "Muistutukset"
+   },
+   "3418677553313974490": {
+      "message": "Roskakori"
+   },
+   "3623199266894863617": {
+      "message": "Luo muistiinpano"
+   },
+   "4930506384627295710": {
+      "message": "Asetukset"
+   },
+   "4974261966265341751": {
+      "message": "Ota tumma teema pois päältä"
+   },
+   "5207635742003539443": {
+      "message": "Kirjaudu sisään"
+   },
+   "546766753072101168": {
+      "message": "Tunnisteet"
+   },
+   "5570885401952336951": {
+      "message": "Sovellusloki"
+   },
+   "5775346636203685655": {
+      "message": "Kumoa"
+   },
+   "6857703948759289202": {
+      "message": "Linkki on poistettu."
+   },
+   "7005745151564974365": {
+      "message": "Pikanäppäimet"
+   },
+   "7102649289752747375": {
+      "message": "Lähetä palautetta"
+   },
+   "733701029503338559": {
+      "message": "Sinun täytyy kirjautua sisään, jotta voit käyttää Google Keepin Chrome-laajennusta."
+   },
+   "7384785369409503695": {
+      "message": "Ota tumma teema käyttöön"
+   },
+   "7420364754178516134": {
+      "message": "Virheiden jäljitys- ja korjaustyökalut"
+   },
+   "7528441140724145783": {
+      "message": "Muokkaa tunnisteita"
+   },
+   "7585826646011739428": {
+      "message": "Muokkaa"
+   },
+   "7819314041543176992": {
+      "message": "Sulje"
+   },
+   "7911416166208830577": {
+      "message": "Ohje"
+   },
+   "8104421162933956065": {
+      "message": "Muistiinpanoja"
+   },
+   "8161188819557037260": {
+      "message": "Google Keepin Chrome-laajennus"
+   },
+   "8193677552005249631": {
+      "message": "Sovellusten lataukset"
+   },
+   "9146862513672039744": {
+      "message": "Tyhjennä tili"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Tallenna Google Keepiin yhdellä klikkauksella!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keepin Chrome-laajennus"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Tallenna Keepiin"
+   }
+}

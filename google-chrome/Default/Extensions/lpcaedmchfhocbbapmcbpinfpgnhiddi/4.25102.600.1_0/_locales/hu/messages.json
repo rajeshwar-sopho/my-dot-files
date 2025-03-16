@@ -1,0 +1,92 @@
+{
+   "1055686627716339120": {
+      "message": "Archívum"
+   },
+   "2159130950882492111": {
+      "message": "Mégse"
+   },
+   "2323249770683736002": {
+      "message": "Új címke létrehozása"
+   },
+   "2983318659047499045": {
+      "message": "Emlékeztetők"
+   },
+   "3418677553313974490": {
+      "message": "Kuka"
+   },
+   "3623199266894863617": {
+      "message": "Jegyzet létrehozása"
+   },
+   "4930506384627295710": {
+      "message": "Beállítások"
+   },
+   "4974261966265341751": {
+      "message": "Sötét téma letiltása"
+   },
+   "5207635742003539443": {
+      "message": "Bejelentkezés"
+   },
+   "546766753072101168": {
+      "message": "Címkék"
+   },
+   "5570885401952336951": {
+      "message": "Kliensnapló"
+   },
+   "5775346636203685655": {
+      "message": "Visszavonás"
+   },
+   "6857703948759289202": {
+      "message": "Link eltávolítva."
+   },
+   "7005745151564974365": {
+      "message": "Billentyűparancsok"
+   },
+   "7102649289752747375": {
+      "message": "Visszajelzés"
+   },
+   "733701029503338559": {
+      "message": "A Google Keep Chrome-bővítmény használatához be kell jelentkeznie"
+   },
+   "7384785369409503695": {
+      "message": "Sötét téma engedélyezése"
+   },
+   "7420364754178516134": {
+      "message": "Hibakereső eszközök"
+   },
+   "7528441140724145783": {
+      "message": "Címkék szerkesztése"
+   },
+   "7585826646011739428": {
+      "message": "Szerkesztés"
+   },
+   "7819314041543176992": {
+      "message": "Bezárás"
+   },
+   "7911416166208830577": {
+      "message": "Súgó"
+   },
+   "8104421162933956065": {
+      "message": "Jegyzetek"
+   },
+   "8161188819557037260": {
+      "message": "Google Keep Chrome-bővítmény"
+   },
+   "8193677552005249631": {
+      "message": "Alkalmazásletöltések"
+   },
+   "9146862513672039744": {
+      "message": "Fiókadatok törlése"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "A tartalmakat egyetlen kattintással mentheti a Keepben!"
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keep Chrome-bővítmény"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Mentés a Keepben"
+   }
+}
